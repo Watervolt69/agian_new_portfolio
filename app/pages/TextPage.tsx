@@ -1,4 +1,4 @@
-import  { Skiper28 } from "@/components/ui/skiper-ui/skiper28";
+import { Skiper28 } from "@/components/ui/skiper-ui/skiper28";
 
 const TextPage = () => {
   return (
