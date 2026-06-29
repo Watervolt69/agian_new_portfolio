@@ -53,9 +53,6 @@
   --radius-4xl: calc(var(--radius) * 2.6);
 }
 
-body {
-  @apply font-sans;
-}
 
 :root {
   --background: #F7F7F7;
